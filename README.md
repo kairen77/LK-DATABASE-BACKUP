@@ -33,3 +33,5 @@
 1. Download resource ini
 2. Setup file `auto-backup.py`
 3. jalankan perintah `python auto-backup.py` di cmd/python
+
+# FOLDER BARU AUTO DIBUAT OLEH SYSTEM DENGAN NAMA 'DATABASE_BACKUP' DISITU TEMPAT FILE BACKUP DATABASE BERADA
